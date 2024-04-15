@@ -1,28 +1,22 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# 01 HTML, CSS, and Git: Code Refactor for Horiseon Website
 
-## User Story
+## Description
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+This was created in order to learn more about semantic elements in HTML and the importantance they bring to having clean code. This also helped to learn basics about CSS and how to improve the look of a website with formatting.
 
-## Acceptance Criteria
+## Installation
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+N/A
 
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+## Usage
+
+This website can serve as an example of what a profession website looks like. This can be used as an example when trying to design websites in the future.
+
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
