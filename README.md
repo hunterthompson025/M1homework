@@ -20,3 +20,9 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Deployed Application
+https://hunterthompson025.github.io/M1homework-HTML5-CSS3-Refactor/
+
+## Screenshot of Application
+![Horiseon Website Refactor](https://github.com/hunterthompson025/M1homework-HTML5-CSS3-Refactor/assets/163206449/66cb6cb9-cc50-4cc7-b3ed-d86d0769d8c6)
